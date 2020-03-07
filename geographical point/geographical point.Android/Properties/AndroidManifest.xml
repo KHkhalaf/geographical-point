@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="geographical_point.geographical_point" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="11" android:targetSdkVersion="28" />
+	<application android:label="geographical point">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDHp58NIYkWSMEs4-xJl1ZydDgZbUd49JQ" />
+	</application>
+	<uses-permission android:name=" android.permission.ACCESS_COARSE_LOCATION " />
+	<uses-permission android:name=" android.permission.ACCESS_FINE_LOCATION " />
+	<uses-permission android:name=" android.permission.ACCESS_LOCATION_EXTRA_COMMANDS " />
+	<uses-permission android:name=" android.permission.ACCESS_MOCK_LOCATION " />
+	<uses-permission android:name=" android.permission.ACCESS_NETWORK_STATE " />
+	<uses-permission android:name=" android.permission.ACCESS_WIFI_STATE " />
+</manifest>

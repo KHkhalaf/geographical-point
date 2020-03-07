@@ -1,0 +1,26 @@
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\bin\Debug\netstandard2.0\geographical point.deps.json
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\bin\Debug\netstandard2.0\geographical point.dll
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\bin\Debug\netstandard2.0\ref\geographical point.dll
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\bin\Debug\netstandard2.0\geographical point.pdb
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.dll
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\ref\geographical point.dll
+C:\Users\hp\Documents\Visual Studio 2019\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.pdb
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.AssemblyInfo.cs
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.dll
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\ref\geographical point.dll
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\geographical point.pdb
+C:\Users\hp\Desktop\geographical point\geographical point\bin\Debug\netstandard2.0\geographical point.deps.json
+C:\Users\hp\Desktop\geographical point\geographical point\bin\Debug\netstandard2.0\geographical point.dll
+C:\Users\hp\Desktop\geographical point\geographical point\bin\Debug\netstandard2.0\ref\geographical point.dll
+C:\Users\hp\Desktop\geographical point\geographical point\bin\Debug\netstandard2.0\geographical point.pdb
+C:\Users\hp\Desktop\geographical point\geographical point\obj\Debug\netstandard2.0\XamlC.stamp

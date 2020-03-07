@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:geographical_point"
+             mc:Ignorable="d"
+             x:Class="geographical_point.MainPage"
+            xmlns:ViewModels="clr-namespace:geographical_point.ViewModels"
+             x:Name="tappedPage">
+    <!-- Google Map Tap -->
+    <ContentPage x:Name="MapContent"
+                 Title="Google Map">
+        <StackLayout x:Name="stackMap">
+            <local:ExtendedMap x:Name="map" 
+                               HasScrollEnabled="True"
+                               Tap="Map_OnTap"/>
+        </StackLayout>
+    </ContentPage>
+    
+    <!-- Stored Polygons Tap -->
+    <ContentPage x:Name="StoredPolygons" 
+                 Title="Stored Polygons">
+        <ContentPage.BindingContext>
+            <ViewModels:PolygonViewModel/>
+        </ContentPage.BindingContext>
+        <StackLayout>
+            <SearchBar x:Name="searchBar" 
+                       Placeholder="Search here ..." 
+                       BackgroundColor="#f1f1f1"
+                       TextChanged="SearchByName"/>
+            <ListView  x:Name="listPolygon"
+                      HasUnevenRows="True"
+                      SeparatorVisibility="Default"
+                      ItemTapped="DrawPolygonById"
+                      ItemsSource="{Binding Polygons}"
+                      RowHeight="60">
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Label Text="{Binding PolygonName}"
+                                   FontAttributes="Bold"
+                                   Margin="8"
+                                   FontSize="Large"/>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>
